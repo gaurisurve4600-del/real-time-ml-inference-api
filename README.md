@@ -1,4 +1,9 @@
 # Real-Time ML Inference REST API
+## Live API
+https://real-time-ml-inference-api.onrender.com
+
+## API Documentation
+https://real-time-ml-inference-api.onrender.com/docs
 
 ## Project Overview
 This project demonstrates a Real-Time Machine Learning Inference REST API built using FastAPI. It accepts JSON input and returns prediction results with probabilities.
